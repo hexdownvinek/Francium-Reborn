@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.fabric.dimension.api.v1.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractContainerScreenAccessor",
+    "LivingEntityAccessor",
+    "MinecraftAccessor",
+    "MouseHandlerAccessor"
+  ],
+  "client": [
+    "AABBMixin",
+    "ClientLevelMixin",
+    "ConnectionMixin",
+    "EndCrystalItemMixin",
+    "EntityMixin",
+    "EntityRenderDispatcherMixin",
+    "GameRendererMixin",
+    "GuiMixin",
+    "ItemStackMixin",
+    "KeyboardHandlerMixin",
+    "LevelRendererMixin",
+    "LocalPlayerMixin",
+    "MinecraftMixin",
+    "MouseHandlerMixin",
+    "RemotePlayerMixin",
+    "ServerboundMovePlayerPacketMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
