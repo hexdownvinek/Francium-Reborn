@@ -14,6 +14,12 @@ import net.fabricmc.fabric.dimension.api.v1.module.ModuleManager;
 import java.lang.invoke.MethodHandles;
 import java.util.concurrent.TimeUnit;
 
+/*
+░█▀▀█ ░█▀▀▀█ ░█▀▀█ ░█▀▀▀█ ░█▀▄▀█ ▀▀█▀▀ ░█▀▀█
+░█─── ░█──░█ ░█─▄▄ ░█──░█ ░█░█░█ ─░█── ░█▄▄▀
+░█▄▄█ ░█▄▄▄█ ░█▄▄█ ░█▄▄▄█ ░█──░█ ─░█── ░█─░█
+ */
+
 @SuppressWarnings("all")
 public final class Client {
 
