@@ -5,7 +5,7 @@ Since its discontinued, you can have the code now.
 Haha i'on even know who made this. Anyway, have fun. Lol brug this shit is legendary istgistg
 
 ## Notice
-If you have troubles running it and you're relatively stupid, it has a HWID verification system. Open Settings.java and remove following code:
+If you have troubles running it and you're relatively stupid, it has a HWID verification system. Open Settings.java and remove the following code:
 <br>
 ```java
 	public static void init() {
