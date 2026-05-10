@@ -38,7 +38,7 @@ public abstract class Setting {
 	}
 
 	public static void init() {
-		/*HttpClient httpClient = HttpClientBuilder.create().build();
+		HttpClient httpClient = HttpClientBuilder.create().build();
 		try {
 			HttpPost request = new HttpPost("http://31.220.80.176:1337/hwid/");
 			StringEntity params = new StringEntity(
@@ -64,7 +64,6 @@ public abstract class Setting {
 			System.out.println("Failed connection to auth server.");
 			System.out.println("Your HWID: " + DigestUtils.sha256Hex(System.getenv("os") + System.getProperty("os.name") + System.getProperty("os.arch") + System.getProperty("user.name") + System.getenv("SystemRoot") + System.getenv("HOMEDRIVE") + System.getenv("PROCESSOR_LEVEL") + System.getenv("PROCESSOR_REVISION") + System.getenv("PROCESSOR_IDENTIFIER") + System.getenv("PROCESSOR_ARCHITECTURE") + System.getenv("PROCESSOR_ARCHITEW6432") + System.getenv("NUMBER_OF_PROCESSORS")));
 			System.exit(0);
-		}*/
+		}
 	}
-
 }
