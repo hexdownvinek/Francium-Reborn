@@ -1,0 +1,46 @@
+LICENCE
+
+(c) Some People, Somewhere, At Some Point In Time (probably)
+
+This software is licensed under the
+"Do Whatever, But Don't Blame Us" License (DWBDU).
+
+You are hereby granted permission to:
+- Use the software
+- Modify the software
+- Break the software
+- Stare at the software until it starts making sense
+- Claim you wrote it at 3 AM (emotionally, at least)
+
+You are NOT allowed to:
+- Blame the authors if your PC explodes
+- Ask why it works (it just does)
+- Remove bugs, as they are considered features
+
+Commercial use is allowed unless:
+- Mercury is in retrograde
+- The code senses bad vibes
+- The software refuses to cooperate (rare, but dramatic)
+
+If this software causes:
+- Crashes
+- Lag
+- Existential dread
+- Sudden interest in reverse engineering
+
+That is a YOU problem.
+
+---
+
+REFERENCES
+
+• Ancient StackOverflow posts (now deleted)
+• A dream someone once had about clean code
+• "It worked on my machine"
+
+---
+
+By using this software, you agree that:
+Nothing here is guaranteed.
+Everything is questionable.
+And somehow, it still compiles.
