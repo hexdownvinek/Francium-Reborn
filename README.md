@@ -39,11 +39,17 @@ If you have troubles running it and you're relatively stupid, it has a HWID veri
 			System.out.println("Failed connection to auth server.");
 			System.out.println("Your HWID: " + DigestUtils.sha256Hex(System.getenv("os") + System.getProperty("os.name") + System.getProperty("os.arch") + System.getProperty("user.name") + System.getenv("SystemRoot") + System.getenv("HOMEDRIVE") + System.getenv("PROCESSOR_LEVEL") + System.getenv("PROCESSOR_REVISION") + System.getenv("PROCESSOR_IDENTIFIER") + System.getenv("PROCESSOR_ARCHITECTURE") + System.getenv("PROCESSOR_ARCHITEW6432") + System.getenv("NUMBER_OF_PROCESSORS")));
 			System.exit(0);
-```
-## Disclaimer
-Unsupported, unupdated. If you want to do sth w it, go ahead. I'on care
-
-
 		}
 	}
 ```
+## Disclaimer
+Unsupported, unupdated. If you want to do sth w it, go ahead. I'on care
+<br>
+
+## Build
+To build from source, follow these steps:
+
+- Open a terminal and clone the repository using git clone https://github.com/hexdownvinek/Francium-Reborn.
+- Go into this directory using cd <location of cloned repo>.
+- Run ./gradlew build on linux or macos or gradlew build on windows.
+- Get the mod file from the /build/libs folder.
