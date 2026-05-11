@@ -3,7 +3,7 @@ Minecraft ghost client for vanilla cpvp. Why no1 has published it?
 Them felines leaked the jar file, BUT didnt leak the code. So thats my turn then. Its discontinued, outdated, bla bla bla.
 Since its discontinued, you can have the code now.
 Haha i'on even know who made this. The code is relatively bad, but could've been worse. Anyway, have fun. Lol brug this shit is legendary istgistg.
--Shouout Dragon6555 for providing the code. Ily <3
+- Shouout Dragon6555 for providing the code. Ily <3
 
 ## Notice
 If you have troubles running it and you're relatively stupid, it has a HWID verification system. Open Settings.java and remove the following code:
