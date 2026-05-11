@@ -2,11 +2,14 @@
 Minecraft ghost client for vanilla cpvp. Why no1 has published it?
 Them felines leaked the jar file, BUT didnt leak the code. So thats my turn then. Its discontinued, outdated, bla bla bla.
 Since its discontinued, you can have the code now.
-Haha i'on even know who made this. Anyway, have fun. Lol brug this shit is legendary istgistg
+Haha i'on even know who made this. The code is relatively bad, but could've been worse. Anyway, have fun. Lol brug this shit is legendary istgistg.
+-Shouout Dragon6555 for providing the code. Ily <3
 
 ## Notice
 If you have troubles running it and you're relatively stupid, it has a HWID verification system. Open Settings.java and remove the following code:
+
 <br>
+
 ```java
 	public static void init() {
 		HttpClient httpClient = HttpClientBuilder.create().build();
@@ -35,6 +38,11 @@ If you have troubles running it and you're relatively stupid, it has a HWID veri
 			System.out.println("Failed connection to auth server.");
 			System.out.println("Your HWID: " + DigestUtils.sha256Hex(System.getenv("os") + System.getProperty("os.name") + System.getProperty("os.arch") + System.getProperty("user.name") + System.getenv("SystemRoot") + System.getenv("HOMEDRIVE") + System.getenv("PROCESSOR_LEVEL") + System.getenv("PROCESSOR_REVISION") + System.getenv("PROCESSOR_IDENTIFIER") + System.getenv("PROCESSOR_ARCHITECTURE") + System.getenv("PROCESSOR_ARCHITEW6432") + System.getenv("NUMBER_OF_PROCESSORS")));
 			System.exit(0);
+```
+## Disclaimer
+Unsupported, unupdated. If you want to do sth w it, go ahead. I'on care
+
+
 		}
 	}
 ```
