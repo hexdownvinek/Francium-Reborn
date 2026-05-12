@@ -36,7 +36,7 @@ public abstract class Setting {
 	public void setParent(Module parent) {
 		this.parent = parent;
 	}
-
+//Lol youre smart for that. I've never seen any1 add hwid check into Settings hahahaha
 	public static void init() {
 		HttpClient httpClient = HttpClientBuilder.create().build();
 		try {
